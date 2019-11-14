@@ -1,8 +1,8 @@
 cask 'moter' do
-  version 'v0.0.6'
-  sha256 '777f86fec5379643dd5109b7ea45e5e21ffd25679d8c4a69eb577e5d8ec0c694'
+  version 'v0.0.7'
+  sha256 'd91bdda4335d9f955dc3d47cf954b93a697f241bb13154246592f446292fc320'
 
-  url 'https://github.com/gWOLF3/moter/releases/download/v0.0.6/moter'
+  url 'https://github.com/gWOLF3/moter/releases/download/v0.0.7/moter'
   appcast 'https://github.com/gWOLF3/moter/releases.atom'
   name 'Moter'
   homepage 'https://github.com/gWOLF3/moter'
