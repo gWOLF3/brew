@@ -1,8 +1,8 @@
 class Visshous < Formula
   desc "😈 infect remote ssh sessions with your vim profile"
   homepage "https://github.com/gWOLF3/viSSHous"
-  url "https://github.com/gWOLF3/viSSHous/archive/v0.0.1.tar.gz"
-  sha256 "2b11ff6d391033650978b1d0a0fad82317bff62dc93face10c5bdcf776d1503a"
+  url "https://github.com/gWOLF3/viSSHous/archive/v0.0.2.tar.gz"
+  sha256 "063f9dee9fe4d1e12092c28371e8360fc1d328bee691329d73cb87a760ad068d"
   license "MIT"
 
   bottle :unneeded
