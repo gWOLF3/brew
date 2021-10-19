@@ -5,8 +5,6 @@ class Visshous < Formula
   sha256 "c73fe880fe914240368a3d176fd3ed08866fbd716854a2476850c92034e75f69"
   license "MIT"
 
-  bottle :unneeded
-
   def install
     bin.install "vissh"
   end
